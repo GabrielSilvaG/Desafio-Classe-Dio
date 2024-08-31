@@ -5,11 +5,11 @@ Este código em JavaScript implementa uma classe chamada jogador, que serve para
 ## Estrutura da Classe
 Atributos:
 
-* nome: O nome do personagem, que representa o apelido ou título do herói.
+- **nome:** O nome do personagem, que representa o apelido ou título do herói.
 
-* idade: A idade do personagem, que pode ser utilizada para caracterizar ainda mais o herói, embora não tenha impacto direto na funcionalidade do código.
+- **idade:** A idade do personagem, que pode ser utilizada para caracterizar ainda mais o herói, embora não tenha impacto direto na funcionalidade do código.
 
-* classe: A classe do personagem, como "mago", "guerreiro", "monge", etc., que define o tipo de ataque disponível.
+- **classe:** A classe do personagem, como "mago", "guerreiro", "monge", etc., que define o tipo de ataque disponível.
 
 
 ## Método atacar:
